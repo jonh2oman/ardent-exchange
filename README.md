@@ -1,5 +1,7 @@
 # 🪙 Ardent Exchange v1.1.0
 
+Access here: 🔗 https://jonh2oman.github.io/ardent-exchange/
+
 ### **Tactical Economy & POS Management System for Cadet Units**
 
 Ardent Exchange is a premium, full-stack banking and Point of Sale (POS) application designed specifically for the Royal Canadian Sea Cadet Corps (RCSCC) and other cadet units. It provides a secure, glassmorphic interface for managing internal unit currency ("Ardent Dollars"), canteen inventory, and cadet achievement rewards.
