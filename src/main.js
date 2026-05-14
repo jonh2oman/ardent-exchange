@@ -2,6 +2,7 @@ import { supabase } from './supabase'
 import { renderLogin } from './auth/login'
 import { renderDashboard } from './dashboard/dashboard'
 import { initHelpHub } from './components/HelpHub'
+import { initDisclaimer } from './components/Disclaimer'
 
 const app = document.getElementById('app')
 
@@ -9,6 +10,7 @@ const app = document.getElementById('app')
 const savedTheme = localStorage.getItem('app-theme') || 'dark'
 document.documentElement.setAttribute('data-theme', savedTheme)
 
+initDisclaimer()
 initHelpHub()
 
 async function init() {
