@@ -1,3 +1,3 @@
 Access the app here:
 
-https://wlekvolqsxibnbwrjnmi.supabase.co
+🔗 https://jonh2oman.github.io/ardent-exchange/
